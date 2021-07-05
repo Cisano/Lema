@@ -1,2 +1,2 @@
 # Lema
-How to digit accented capital letters on italian keyboard
+How to digit accented capital letters on italian keyboard by AutoHotKey script.
